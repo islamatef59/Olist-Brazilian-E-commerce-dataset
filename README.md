@@ -14,3 +14,13 @@ Feature Engineering: Calculated business-critical metrics such as delivery_perfo
 Data Integrity: Developed a validation suite to check for surrogate key coverage, referential integrity, and uniqueness across the warehouse.
 
 Optimization: Performed memory optimization by casting data types (e.g., converting object IDs to int32 surrogate keys).
+
+
+Technologies Used
+Python 3.x
+
+Pandas (Data Manipulation)
+
+NumPy (Numerical Processing)
+
+Airflow (Referenced in file paths for potential orchestration)
